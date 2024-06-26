@@ -1,0 +1,33 @@
+{
+  "form": {
+    "appCode":"How to obtain AppCode?",
+    "feishuDocument":"Batch recognize invoice information in images and PDFs,and export the results to a multidimensional table. Please refer to:",
+    "plugIn":"Feishu Intelligent Document Processing Plugin",
+    "defaultcode":"Default AppCode:",
+    "remain":"Remaining times:",
+    "enterAppcode":"Please enter AppCode",
+    "content":{
+      "noField":"No selectable columns",
+      "textSelect":"Field type needs to be text",
+      "moneySelect":"Field type must be numeric or monetary",
+      "dateSelect":"Field type must be text or date",
+      "pleaseSelect":"Please select",
+      "neccessary":"required",
+      "unneccessary":"optional",
+      "fpdmTitle":"Please select the invoice code column:",
+      "fpdmRemind":"Invoice code【Note: Full electronic invoice is not required to be transmitted,others must be transmitted】",
+      "fphmTitle":"Please select the invoice number column:",
+      "fphmRemind":"Invoice number",
+      "xymTitle":"Please select the verification code column:",
+      "xymRemind":"Verification code【Note: Special ticket and full electric ticket can be left blank,others must be filled in.The verification code supports both full and last 6 digits】",
+      "kprqTitle":"Please select the invoicing date column:",
+      "kprqRemind":"Invoicing date",
+      "bhsjeTitle":"Please select the column without tax amount:",
+      "bhsjeRemind":"Excluding tax amount【Note: General invoices may not be transferred,other invoices must be filled in.For full electronic invoices,please transfer including tax amount,while other invoices need to transfer excluding tax amount】",
+      "yzTitle":"Please select the column to export 'consistency' to:",
+      "zfTitle":"Please select the column to export 'void' to:",
+      "chTitle":"Please select the column to export 'whether to flush red' to:",
+      "submit":"submit"
+    }
+  }
+}
